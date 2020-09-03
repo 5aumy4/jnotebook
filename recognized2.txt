@@ -1,0 +1,10 @@
+hemoglobin 15.00 cm
+rbc count count 458
+lymphocytes 6440 %
+eosinophils 0.60 %
+lymphocytes san thowimm3
+monocytes ost thowimms
+eosinophils 0.05 thowimm3
+basophils ons thowmm3,
+platelet count count 401.0
+
