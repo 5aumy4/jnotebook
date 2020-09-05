@@ -83,7 +83,7 @@ for cnt in contours:
             if word in arr :
                 try:
                     print(word +" "+ lit[i+3] + " "+lit[i+4])
-                    file = open("recognized0.txt", "a")
+                    file = open("recognized3.txt", "a")
                     file.write(word+" "+lit[i+3]+" "+ lit[i+4])
                     file.write("\n")
                     file.close
@@ -96,7 +96,7 @@ for cnt in contours:
             if word in arr :
                 try:
                     print(word +" "+ lit[i+4] + " "+lit[i+5])
-                    file = open("recognized0.txt", "a")
+                    file = open("recognized3.txt", "a")
                     file.write(word+" "+lit[i+4]+" "+ lit[i+5])
                     file.write("\n")
                     file.close
@@ -109,7 +109,7 @@ for cnt in contours:
             if word in arr :
                 try:
                     print(word +" "+ lit[i+5] + " "+lit[i+6])
-                    file = open("recognized0.txt", "a")
+                    file = open("recognized3.txt", "a")
                     file.write(word+" "+lit[i+5]+" "+ lit[i+6])
                     file.write("\n")
                     file.close
@@ -122,7 +122,7 @@ for cnt in contours:
             if word in arr :
                 try:
                     print(word +" "+ lit[i+6] + " "+lit[i+7])
-                    file = open("recognized0.txt", "a")
+                    file = open("recognized3.txt", "a")
                     file.write(word+" "+lit[i+6]+" "+ lit[i+7])
                     file.write("\n")
                     file.close
