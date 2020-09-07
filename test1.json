@@ -1,0 +1,18 @@
+{
+    "sex": ":",
+    "glucose": "(f)",
+    "lipid profile": "(direct-hdl&ldl)",
+    "cholesterol": "97",
+    "hdl-cholesterol": "(d)",
+    "hdl-cholesterol (d)": "37",
+    "ldl-cholesterol": "(d)",
+    "ldl-cholesterol (d)": "75\u00b0",
+    "vldl-cholesterol": "[upto",
+    "triglyceride": "90,",
+    "serum urea": "25",
+    "urea": "25",
+    "serum creatinine": "0.63",
+    "creatinine": "0.63",
+    "plasma": "glucose",
+    "plasma glucose (f)": "116"
+}
